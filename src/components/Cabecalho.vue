@@ -1,6 +1,6 @@
 <template>
     <header>
-        <h1>Calculadora Reativa</h1>
+        <h1>Calculadora</h1>
     </header>
 </template>
 
