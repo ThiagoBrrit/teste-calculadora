@@ -1,7 +1,7 @@
 <script setup>
 import { reactive } from 'vue';
 import Cabecalho from './components/Cabecalho.vue';
-import Operacao from './components/operacao.vue';
+import Operacao from './components/Operacao.vue';
 import Resultado from './components/Resultado.vue';
 
 
